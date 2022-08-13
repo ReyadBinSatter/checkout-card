@@ -1,0 +1,145 @@
+[
+    {
+        "id": 1,
+        "title": "Topic",
+        "childrens": [
+            {
+                "title": "Photoshop"
+            },
+            {
+                "title": "Adobe Illustrator"
+            },
+            {
+                "title": "Web Design"
+            },
+            {
+                "title": "After Effect"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Level",
+        "childrens": [
+            {
+                "title": "All Levels"
+            },
+            {
+                "title": "Beginner"
+            },
+            {
+                "title": "Intermediate"
+            },
+            {
+                "title": "Expert"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Language",
+        "childrens": [
+            {
+                "title": "English"
+                
+            },
+            {
+                "title": "Bangla"
+               
+            },
+            {
+                "title": "Arabic"
+            },
+            {
+                "title": "Urdhu"
+            },
+            {
+                "title": "Hindi"
+            },
+            {
+                "title": "Latin"
+            },
+            {
+                "title": "Portugues"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Price",
+        "childrens": [
+            {
+                "title": "Paid"
+            },
+            {
+                "title": "Free"  
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Features",
+        "childrens": [
+            {
+                "title": "Subtitles"
+            },
+            {
+                "title": "Quizzes"  
+            },
+            {
+                "title": "Coding Exercises"  
+            },
+            {
+                "title": "Practice Tests"  
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Ratings",
+        "childrens": [
+            {
+                "title": "4.5 & up"
+            },
+            {
+                "title": "4.0 & up"  
+            },
+            {
+                "title": "3.5 & up"  
+            },
+            {
+                "title": "3.0 & up"  
+            }
+        ]
+    },
+
+    {
+        "id": 7,
+        "title": "Subtitles",
+        "childrens": [
+            {
+                "title": "English"
+                
+            },
+            {
+                "title": "Bangla"
+               
+            },
+            {
+                "title": "Arabic"
+            },
+            {
+                "title": "Urdhu"
+            },
+            {
+                "title": "Hindi"
+            },
+            {
+                "title": "Latin"
+            },
+            {
+                "title": "Portugues"
+            }
+        ]
+    }
+]

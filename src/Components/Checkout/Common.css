@@ -1,0 +1,34 @@
+.pic{
+
+    height: 120px;
+    width: 100%;
+    border: 2px;
+}
+.pic1{
+
+    height: 50px;
+    width: 50px;
+    border: 2px;
+}
+
+h3{
+    color: black;
+}
+
+.txt-color{
+    color: #b4690e;
+    
+}
+
+.p-align{
+    padding-top: 1px;
+}
+
+.star-color{
+    color: #e59819;
+}
+
+
+.related-topics:not(:last-child):after {
+    content: ',';
+}

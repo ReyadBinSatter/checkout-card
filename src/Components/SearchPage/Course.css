@@ -1,0 +1,47 @@
+.pic{
+
+    height: 180px;
+    width: 100%;
+    border: 2px;
+}
+.pic-slide{
+
+    height: 180px;
+    width: 100%;
+    border: 1px solid ;
+}
+
+h3{
+    color: black;
+}
+
+.txt-color{
+    color: #b4690e;
+    
+}
+
+.p-align{
+    padding-top: 1px;
+}
+
+.star-color{
+    color: #e59819;
+}
+
+
+.related-topics:not(:last-child):after {
+    content: ',';
+}
+
+
+.slick-next:before, .slick-prev:before {
+    font-size: 20px;
+    line-height: 1;
+    opacity: .75;
+    color: black;
+}
+.topic{
+    height: 100px;
+    width: 350px;
+    
+}
